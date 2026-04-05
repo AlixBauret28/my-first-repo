@@ -10,7 +10,7 @@ git --version
 
 **Configure your Git username and email:**
 ```bash
-git config --global user.name "AlixBauret"
+git config --global user.name "AlixBauret28"
 git config --global user.email "alix.bauret@gmail.com"
 ```
 
